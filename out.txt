@@ -1,0 +1,237 @@
+STARTING MISSION
+
+CHRONONAUT STATUS PRE-JUMP
+   Jump Engineer: "Rufus"
+   Travel Age: 52
+   Real Age: 52
+   Ability: 84%
+   Volatility: 32%
+
+   Doctor: "Sigmund Freud"
+   Travel Age: 65
+   Real Age: 65
+   Ability: 16%
+   Qualifications: 12%
+   Intelligence: 39%
+
+   Historian: "Socrates"
+   Travel Age: 67
+   Real Age: 67
+   Ability: 37%
+   Qualifications: 0.0601884
+   Wisdom: 61%
+
+   Security: "Genghis Khan"
+   Travel Age: 55
+   Real Age: 55
+   Ability: 61%
+   Strength: 20%
+   Diplomacy: 6%
+
+   Chronodog: "Abraham Lincoln"
+   Travel Age: 53
+   Real Age: 53
+   Ability: 69%
+   Endearing: 82%
+   Olfaction: 8%
+   Excavation: 25%
+
+   Chronocat: "Napoleon Bonaparte"
+   Travel Age: 40
+   Real Age: 40
+   Ability: 26%
+   Endearing: 46%
+   Hunting: 46%
+   Climbing: 62%
+
+   Chronobird: "Ludwig van Beethoven"
+   Travel Age: 37
+   Real Age: 37
+   Ability: 3%
+   Endearing: 59%
+   Scouting: 44%
+   Collecting: 7%
+
+POPULATION STATUS PRE-JUMP
+   Tech Era: Information Age
+   Population Type: Metropolis
+   Year: 2525 CE
+   Total Population 50,000,000
+
+INITIATING JUMP SEQUENCE
+
+CHRONONAUT STATUS POST-JUMP
+   Jump Engineer: "Rufus"
+   Travel Age: 52
+   Real Age: 52
+   Ability: 84%
+   Volatility: 32%
+
+   Doctor: "Sigmund Freud"
+   Travel Age: 65
+   Real Age: 65
+   Ability: 16%
+   Qualifications: 12%
+   Intelligence: 39%
+
+   Historian: "Socrates"
+   Travel Age: 67
+   Real Age: 67
+   Ability: 37%
+   Qualifications: 0.0601884
+   Wisdom: 61%
+
+   Security: "Genghis Khan"
+   Travel Age: 55
+   Real Age: 55
+   Ability: 61%
+   Strength: 20%
+   Diplomacy: 6%
+
+   Chronodog: "Abraham Lincoln"
+   Travel Age: 53
+   Real Age: 53
+   Ability: 69%
+   Endearing: 82%
+   Olfaction: 8%
+   Excavation: 25%
+
+   Chronocat: "Napoleon Bonaparte"
+   Travel Age: 40
+   Real Age: 40
+   Ability: 26%
+   Endearing: 46%
+   Hunting: 46%
+   Climbing: 62%
+
+   Chronobird: "Ludwig van Beethoven"
+   Travel Age: 37
+   Real Age: 37
+   Ability: 3%
+   Endearing: 59%
+   Scouting: 44%
+   Collecting: 7%
+
+POPULATION STATUS POST-JUMP
+   Tech Era: Medieval Period
+   Population Type: Hamlet
+   Year: 1404 CE
+   Total Population 981,808
+
+INVESTIGATING ARTEFACT "Voynich Manuscript"
+   YEAR 1404 CE - Tech Era: Medieval Period - Population: 981,808
+       EVENT: PLAGUE
+           6,091 people have died or 0.62% of the total population
+       EVENT: SKIRMISH
+           39,216 people have died or 4.01% of the total population
+           Technology increased by 3% from 36.8894% to 39.8894%
+   YEAR 1405 CE - Tech Era: Medieval Period - Population: 939,937
+       EVENT: PLAGUE
+           205,142 people have died or 21.75% of the total population
+       EVENT: SKIRMISH
+           57,523 people have died or 7.79% of the total population
+           Technology increased by 2% from 39.9249% to 41.9249%
+   YEAR 1406 CE - Tech Era: Medieval Period - Population: 680,561
+       EVENT: FOUND ARTEFACT INFO
+       EVENT: PLAGUE
+           36,040 people have died or 5.28% of the total population
+       EVENT: SKIRMISH
+           11,101 people have died or 1.72% of the total population
+           Technology increased by 1% from 41.9623% to 42.9623%
+   YEAR 1407 CE - Tech Era: Renaissance - Population: 635,801
+       EVENT: PLAGUE
+           146,048 people have died or 22.89% of the total population
+       EVENT: SKIRMISH
+           20,945 people have died or 4.26% of the total population
+           Technology increased by 4% from 43.0005% to 47.0005%
+   YEAR 1408 CE - Tech Era: Renaissance - Population: 471,033
+       EVENT: PLAGUE
+           67,187 people have died or 14.21% of the total population
+           Rufus the Jump Engineer caught the plague and died
+       EVENT: SKIRMISH
+           16,364 people have died or 4.04% of the total population
+           Technology increased by 2% from 47.0423% to 49.0423%
+   YEAR 1409 CE - Tech Era: Renaissance - Population: 389,130
+       EVENT: PLAGUE
+           71,423 people have died or 18.29% of the total population
+       EVENT: SKIRMISH
+           22,698 people have died or 7.11% of the total population
+           Technology increased by 2% from 49.086% to 51.086%
+   YEAR 1410 CE - Tech Era: Renaissance - Population: 296,370
+       EVENT: FOUND CLUE
+       EVENT: PLAGUE
+           43,314 people have died or 14.56% of the total population
+       EVENT: SKIRMISH
+           26,667 people have died or 10.49% of the total population
+           Technology increased by 1% from 51.1314% to 52.1314%
+       CLUE AND INFORMATION FOUND - PREPARING NEXT JUMP
+
+END OF JOURNEY SUMMARY
+FINAL CHRONONAUT SUMMARY
+   Jump Engineer: "Rufus"
+   Deceased
+
+   Doctor: "Sigmund Freud"
+   Travel Age: 72
+   Real Age: 65
+   Ability: 16%
+   Qualifications: 12%
+   Intelligence: 39%
+
+   Historian: "Socrates"
+   Travel Age: 74
+   Real Age: 67
+   Ability: 37%
+   Qualifications: 0.0601884
+   Wisdom: 61%
+
+   Security: "Genghis Khan"
+   Travel Age: 62
+   Real Age: 55
+   Ability: 61%
+   Strength: 20%
+   Diplomacy: 6%
+
+   Chronodog: "Abraham Lincoln"
+   Travel Age: 60
+   Real Age: 53
+   Ability: 69%
+   Endearing: 82%
+   Olfaction: 8%
+   Excavation: 25%
+
+   Chronocat: "Napoleon Bonaparte"
+   Travel Age: 47
+   Real Age: 40
+   Ability: 26%
+   Endearing: 46%
+   Hunting: 46%
+   Climbing: 62%
+
+   Chronobird: "Ludwig van Beethoven"
+   Travel Age: 44
+   Real Age: 37
+   Ability: 3%
+   Endearing: 59%
+   Scouting: 44%
+   Collecting: 7%
+
+FINAL POPULATION STATUS
+   Tech Era: Industrial Revolution
+   Population Type: City
+   Year: 1411 CE
+   Total Population 227,426
+
+ARTEFACTS: 
+   Name: Voynich Manuscript
+   Description: An undecyphered tome written in an unknown writing system. Dated back to the early 15th century, this book includes descriptions of herbology, astronomy, astrology, biology, cosmology and pharmacology.
+   Information: 10%
+       Year of Manufacture (discovered 1407 CE)
+
+MAJOR EVENTS: 
+   Rufus the Jump Engineer caught the plague and died
+
+JUMP ENGINEER DEAD OR RETIRED
+
+MISSION FAILED - DID NOT RESEARCH ALL ARTEFACTS
+
